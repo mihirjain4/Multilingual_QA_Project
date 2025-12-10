@@ -112,7 +112,9 @@ That's it! Open `http://localhost:8501` in your browser.
 ## 🎥 Usage Instructions
 
 ### Step 1: Upload PDF Document
-screenshots/Upload_PDF.png
+<p align="center">
+<img src="https://github.com/mihirjain4/Multilingual_QA_Project/blob/main/screenshots/Upload_PDF.png" alt="Upload_PDF" />
+</p>
 - Click the "Upload PDF" button in the main interface
 - Select your PDF file (10-15 pages recommended)
 - System automatically extracts and displays text preview
