@@ -112,6 +112,7 @@ That's it! Open `http://localhost:8501` in your browser.
 ## 🎥 Usage Instructions
 
 ### Step 1: Upload PDF Document
+📸 Screenshot
 <p align="center">
 <img src="https://github.com/mihirjain4/Multilingual_QA_Project/blob/main/screenshots/Upload_PDF.png" alt="Upload_PDF" />
 </p>
@@ -121,15 +122,24 @@ That's it! Open `http://localhost:8501` in your browser.
 - View the first 300 characters of extracted text for verification
 
 ### Step 2: Select Language & Ask Question
-📸 Screenshot Select Language: screenshots\Select _Language.png
-📸 Screenshot Ask Question : screenshots\Ask_Question.png
+📸 Screenshot Select Language: 
+<p align="center">
+<img src="https://github.com/mihirjain4/Multilingual_QA_Project/blob/main/screenshots/Select%20_Language.png" alt="Select_Language" />
+</p>
+📸 Screenshot Ask Question :
+<p align="center">
+<img src="https://github.com/mihirjain4/Multilingual_QA_Project/blob/main/screenshots/Ask_Question.png" alt="Ask_Question" />
+</p>
 
 - Use the sidebar dropdown to select your preferred language
 - Type your question in the text area in ANY supported language
 - Click the "Ask" button to process your question
 
 ### Step 3: View Multilingual Results
-📸 Screenshot: screenshots\Translate_answer.png
+📸 Screenshot :
+<p align="center">
+<img src="https://github.com/mihirjain4/Multilingual_QA_Project/blob/main/screenshots/Translate_answer.png" alt="Translate_answer" />
+</p>
 
 - System processes your question through the complete pipeline
 - View comprehensive results including:
